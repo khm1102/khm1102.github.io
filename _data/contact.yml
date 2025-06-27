@@ -3,8 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: solvedac
+  icon: "fas fa-code"
+  url: "https://solved.ac/profile/rlagusals1102"
 
 - type: email
   icon: "fas fa-envelope"
