@@ -11,7 +11,7 @@ toc: true
 예를 들어 간단한 작업 + GPIO 같은 기본 기능을 활용해야 하면 `Raspbian` <br>
 IoT 전용 OS `HAOS(Home Assitant OS)` 등등 여러가지 운영체제/이미지가 있다. <br>
 
-필자의 목적은 아래와 같다.
+라즈베리파이 사용 목적은 아래와 같다.
 - docker 통한 간단한 CI/CD 구축
 - docker 통한 Homebridge <-> Homekit 연동
 - MySQL 전용 데이터 베이스 구축
